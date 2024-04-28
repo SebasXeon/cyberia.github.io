@@ -21,7 +21,7 @@ let text = 'cyberia.world'
 console.log(window.innerWidth)
 const geometry = new TextGeometry(text, {
     font: font,
-    size: window.innerWidth * 0.06,
+    size: window.innerWidth * 0.04,
     height: 0.2,
     curveSegments: 12,
     bevelEnabled: true,
